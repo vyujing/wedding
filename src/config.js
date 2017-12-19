@@ -11,12 +11,12 @@ const gallery = [ // galley image list
 
 export default {
   global: {
-    googleMapAPIKey: 'AIzaSyDSjYdBUN_NDRJQShxs0ugvMBV2goZvT2o',
+    googleMapAPIKey: 'AIzaSyA2LscoZWUWai7Clucd6kAXbye6W_XXwY0',
     comment: {
       livere: {
         enable: true, // if false, not rendering livere comment component
         service: 'city',
-        uid: 'MTAyMC8yNTYzNi8yMjMy',
+        uid: 'MTAyMC8zMjU1Ni85MTE3',
       },
       facebook: {
         enable: false, // if false, not rendering facebook comment component
